@@ -6,6 +6,12 @@ body{
     justify-content: space-between;
     padding: 10px;
 }
+.menu{
+    display:flex
+}
+.menu div{
+    padding: 10px;
+}
 .row{
     display:flex;
     justify-content:center;
@@ -33,6 +39,6 @@ body{
     background-color: black;
     color:white;
     text-align: center;
-    padding:20px;
+    padding:10px;
     font-weight:bold;
 }
